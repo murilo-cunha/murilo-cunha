@@ -8,4 +8,9 @@ I'm an AI tech lead @ [dataroots](https://github.com/datarootsio). Occasional pi
 - 📫 How to reach me: [professional email](mailto:murilo@dataroots.io), [LinkedIn](https://www.linkedin.com/in/murilo-cunha/), [Twitter](https://twitter.com/_murilocunha), [Fosstodon](https://fosstodon.org/@murilocunha)
 - ⚡ Fun fact: believer that everyone should own chickens 🐓 
 
-![murilo-cunha](https://github-readme-stats.vercel.app/api?username=murilo-cunha)
+<a href="https://github.com/murilo-cunha">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=murilo-cunha&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=stars&rank_icon=github" />
+</a>
+<a href="https://github.com/murilo-cunha?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilo-cunha&layout=compact&hide=jupyter%20notebook,html,scss&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
