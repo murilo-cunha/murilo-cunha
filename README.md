@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I'm an AI tech lead @ [dataroots](https://github.com/datarootsio). Occasional pickup football or tennis player, (and enjoy sports in general). Love travelling, meditation, and meeting new people. Talk about AI 🤖, Python 🐍 and open source 💪. Spoke at a few conferences and wrote [databooks](https://github.com/datarootsio/databooks) 🎉!
+AI tech lead @ [dataroots](https://github.com/datarootsio). Occasional football or tennis, (+ sports in general). Interested in exploring new places, meditation, and connecting with new people. Talk about AI 🤖, python 🐍, rust 🦀, software, and open source in general 💪. Enjoying my time at conferences and meeting awesome people!
 
 - 😄 Pronouns: he/him
 - 🏡 From: Brazil 🇧🇷 @ Belgium 🇧🇪
-- 💬 Ask me about: sports, food, ai, open source, python, travelling
+- 💬 Ask me about: sports, food, ai, bad jokes, open source, python, rust, traveling
 - 📫 How to reach me: [professional email](mailto:murilo@dataroots.io), [LinkedIn](https://www.linkedin.com/in/murilo-cunha/), [Twitter](https://twitter.com/_murilocunha), [Fosstodon](https://fosstodon.org/@murilocunha)
-- ⚡ Fun fact: believer that everyone should own chickens 🐓 
+- ⚡ Fun fact: believe that owning chickens is key to solving global warming 🐓 
 
 <a href="https://github.com/murilo-cunha">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=murilo-cunha&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=stars&rank_icon=github" />
