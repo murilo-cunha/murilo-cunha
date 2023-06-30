@@ -12,5 +12,5 @@ AI tech lead @ [dataroots](https://github.com/datarootsio). Occasional football 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=murilo-cunha&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=stars&rank_icon=github" />
 </a>
 <a href="https://github.com/murilo-cunha?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilo-cunha&layout=compact&hide=jupyter%20notebook,html,scss&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilo-cunha&layout=compact&hide=jupyter%20notebook,html,scss&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&size_weight=0.5&count_weight=0.5" />
 </a>
