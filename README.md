@@ -11,6 +11,6 @@ AI tech lead @ [dataroots](https://github.com/datarootsio). Occasional football 
 - 🏡 From: Brazil 🇧🇷 @ Belgium 🇧🇪
 - 💬 Ask me about: sports, food, ai, bad jokes, open source, python, rust, traveling
 - 📫 How to reach me: [professional email](mailto:murilo@dataroots.io), [LinkedIn](https://www.linkedin.com/in/murilo-cunha/), [Twitter](https://twitter.com/_murilocunha), [Fosstodon](https://fosstodon.org/@murilocunha)
-- ⚡ Fun fact: believe that owning chickens is key to solving global warming 🐓 
+- ⚡ Fun fact: everyone should have chickens 🐓 
 
 
