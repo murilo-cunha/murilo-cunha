@@ -2,10 +2,10 @@
   <img align="center" src="./assets/badge.svg" />
 </a>
 <a href="https://github.com/murilo-cunha?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilo-cunha&layout=compact&hide=jupyter%20notebook,html,css,smarty,scss&bg_color=1e1e1e&title_color=fff&text_color=fff&size_weight=0.5&count_weight=0.5&langs_count=12&hide_border=true" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=murilo-cunha&langs_count=5&theme=nightowl" />
 </a>
 
-AI tech lead @ [dataroots](https://github.com/datarootsio). Occasional football or tennis, (+ sports in general). Interested in exploring new places, meditating, and connecting with new people. Talk about AI 🤖, python 🐍, rust 🦀, software, and open source in general 💪. Enjoying my time at conferences and meeting awesome people!
+CTO @ [dataroots](https://github.com/datarootsio). Occasional football or tennis, (+ sports in general). Interested in exploring new places, meditating, and connecting with new people. Talk about AI 🤖, python 🐍, rust 🦀, software, and open source in general 💪. Enjoying my time at conferences and meeting awesome people!
 
 - 😄 Pronouns: he/him
 - 🏡 From: Brazil 🇧🇷 @ Belgium 🇧🇪
